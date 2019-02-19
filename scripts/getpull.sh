@@ -1,4 +1,4 @@
 #!/bin/bash 
 #  apache config .
-cd /var/www/html
+cd /var/www
 chown apache:apache -R ./
